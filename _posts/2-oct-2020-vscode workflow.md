@@ -1,4 +1,4 @@
-# first steps in tooling up vscode for web dev
+## first steps in tooling up vscode for web dev
 there are some requirements i want to achieve, essentially all of it as of now involves ide integration with build tasks
 that triggers some process. vscode tutorial for integrating sass demonstrates how to create a build task through using json for
 specification/configuration. the extended part of the tutorial then goes on about using gulp. I know a bit about gulp, my first most
