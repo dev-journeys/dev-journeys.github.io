@@ -11,6 +11,5 @@ i haven't done any research into established workflows but i sort of know what i
 
 1. have some sort of capacity to work on react components as just sass+html and view them through a live-preview feature. (the mocking aspect of the ui)
 
-
 resources
 1. [vscode sass/lean tutoral](https://code.visualstudio.com/docs/languages/css)
